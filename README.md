@@ -6,7 +6,7 @@
 
 Меня зовут Дарья и я QA Engineer. Я закончила курс "Функциональное тестирование ПО". Здевь вы можете ознакомиться с моим порфолио,некоторыми элементами веб и мобильного тестирования, выполненные мной во время прохождения курса и стажировок. 
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@darya-sugako-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/darya-sugako/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:daryasugako@gmail.com)
+- 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:daryasugako@gmail.com)
 
 ---
 
